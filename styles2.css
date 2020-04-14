@@ -1,0 +1,28 @@
+body {
+  background-color: black
+}
+
+h1 {
+  color: white
+}
+
+h3 {
+  color: white
+}
+
+p {
+  color: white
+}
+
+title {
+  color: white
+}
+
+b {
+  color: white
+
+}
+
+.monospace {
+    font-family: Arial, Helvetica, Sans-Serif;
+}
